@@ -19,6 +19,8 @@ class ViewController: NSViewController {
     
     // fix bug on(issue_tag1)
     
+    // addLineFive(dev)
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
